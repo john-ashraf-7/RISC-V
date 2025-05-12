@@ -5,7 +5,32 @@
 A Verilog-based 32-bit pipelined RISC-V processor simulator, developed as a team project between March and May 2025. This project implements the **RV32IM** instruction set architecture, supporting 46 RISC-V instructions with accurate pipeline behavior, hazard management, and forwarding.
 
 ---
+### 👨‍💻 Team
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/john-ashraf-7" target="_blank">
+        <img src="https://github.com/john-ashraf-7.png" width="100" alt="John Ashraf"/><br>
+        <sub><b>john-ashraf-7</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ZiadGaballah" target="_blank">
+        <img src="https://github.com/ZiadGaballah.png" width="100" alt="Ziad Gaballah"/><br>
+        <sub><b>ZiadGaballah</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/zeinaelsawy" target="_blank">
+        <img src="https://github.com/zeinaelsawy.png" width="100" alt="Zeina El Saway"/><br>
+        <sub><b>zeinaelsawy</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
 ## 🛠️ Features
 
 - **RV32IM Instruction Set Support**  
@@ -39,45 +64,4 @@ A Verilog-based 32-bit pipelined RISC-V processor simulator, developed as a team
 - Manually inspected waveform outputs for pipeline stage behavior  
 - Rigorous unit and integration testing to ensure correctness and efficiency
 
----
 
-### 👨‍💻 Team
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/john-ashraf-7" target="_blank">
-        <img src="https://github.com/john-ashraf-7.png" width="100" alt="John Ashraf"/><br>
-        <sub><b>john-ashraf-7</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ZiadGaballah" target="_blank">
-        <img src="https://github.com/ZiadGaballah.png" width="100" alt="Ziad Gaballah"/><br>
-        <sub><b>ZiadGaballah</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/zeinaelsawy" target="_blank">
-        <img src="https://github.com/zeinaelsawy.png" width="100" alt="Zeina El Saway"/><br>
-        <sub><b>zeinaelsawy</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-
----
-
-## 📅 Timeline
-
-- **March 2025**: Single-cycle RV32I completed  
-- **April 2025**: Pipeline structure, hazard detection, and forwarding implemented  
-- **May 2025**: RV32M extension, debugging, and validation
-
----
-
-## 📜 License
-
-This project is for educational purposes and is not licensed for commercial use.
