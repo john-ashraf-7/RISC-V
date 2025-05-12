@@ -41,9 +41,18 @@ A Verilog-based 32-bit pipelined RISC-V processor simulator, developed as a team
 
 ---
 
-## 👨‍💻 Team
+### 👨‍💻 Team
 
-Developed by a team of three Computer Engineering students as part of a Computer Architecture course project.
+<a href="https://github.com/ZiadGaballah" target="_blank">
+  <img src="https://github.com/ZiadGaballah.png" width="100" alt="Ziad Gaballah"/><br>
+  ZiadGaballah
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/zeinaelsawy" target="_blank">
+  <img src="https://github.com/zeinaelsawy.png" width="100" alt="Zeina El Saway"/><br>
+  zeinaelsawy
+</a>
+
 
 ---
 
