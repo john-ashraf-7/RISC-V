@@ -43,22 +43,28 @@ A Verilog-based 32-bit pipelined RISC-V processor simulator, developed as a team
 
 ### 👨‍💻 Team
 
-<p align="center">
-  <a href="https://github.com/john-ashraf-7" target="_blank">
-    <img src="https://github.com/john-ashraf-7.png" width="100" alt="John Ashraf"/><br>
-    <sub><b>john-ashraf-7</b></sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/ZiadGaballah" target="_blank">
-    <img src="https://github.com/ZiadGaballah.png" width="100" alt="Ziad Gaballah"/><br>
-    <sub><b>ZiadGaballah</b></sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/zeinaelsawy" target="_blank">
-    <img src="https://github.com/zeinaelsawy.png" width="100" alt="Zeina El Saway"/><br>
-    <sub><b>zeinaelsawy</b></sub>
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/john-ashraf-7" target="_blank">
+        <img src="https://github.com/john-ashraf-7.png" width="100" alt="John Ashraf"/><br>
+        <sub><b>john-ashraf-7</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ZiadGaballah" target="_blank">
+        <img src="https://github.com/ZiadGaballah.png" width="100" alt="Ziad Gaballah"/><br>
+        <sub><b>ZiadGaballah</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/zeinaelsawy" target="_blank">
+        <img src="https://github.com/zeinaelsawy.png" width="100" alt="Zeina El Saway"/><br>
+        <sub><b>zeinaelsawy</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
