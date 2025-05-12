@@ -1,6 +1,6 @@
 # RISC-V Pipelined Processor Simulator
 
-<img src="Block Diagram/RISC-V-Pipeline-Diagram.jpg" alt="RISC-V Pipeline Diagram" width="600">
+<img src="Block Diagram/RISC-V-Pipeline-Diagram.jpg" alt="RISC-V Pipeline Diagram">
 
 A Verilog-based 32-bit pipelined RISC-V processor simulator, developed as a team project between March and May 2025. This project implements the **RV32IM** instruction set architecture, supporting 46 RISC-V instructions with accurate pipeline behavior, hazard management, and forwarding.
 
